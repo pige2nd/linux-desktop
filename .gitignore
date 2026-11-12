@@ -1,0 +1,10 @@
+.DS_Store
+*.swp
+*~
+.env
+.env.*
+*.pem
+*.key
+*.secret
+im/.config/ibus/
+im/.config/fcitx5/conf/cached_layouts
